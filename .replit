@@ -1,2 +1,2 @@
 language = "cpp"
-run = "g++ -std=c++11 ./L01/main.cpp -o main"
+run = "g++ -std=c++11 ./L02/main.cpp -o main && ./main"
